@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "f0a8cfd06c01b42b2359c750cb8a49f7",
+=======
+    "content-hash": "41885d82679a8e6b608a7a7328c9bfc1",
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
     "packages": [
         {
             "name": "brick/math",
@@ -141,6 +145,7 @@
             "time": "2026-09-06T14:11:38+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "clue/redis-protocol",
             "version": "v0.3.2",
             "source": {
@@ -271,6 +276,8 @@
             "time": "2025-01-03T16:18:33+00:00"
         },
         {
+=======
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
             "name": "dflydev/dot-access-data",
             "version": "v3.0.3",
             "source": {
@@ -642,6 +649,7 @@
             "time": "2025-03-06T22:45:56+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "evenement/evenement",
             "version": "v3.0.2",
             "source": {
@@ -689,6 +697,8 @@
             "time": "2023-08-08T05:53:35+00:00"
         },
         {
+=======
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
             "name": "fruitcake/php-cors",
             "version": "v1.4.0",
             "source": {
@@ -1519,6 +1529,7 @@
             "time": "2026-11-09T16:07:10+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/reverb",
             "version": "v1.13.0",
             "source": {
@@ -1599,6 +1610,8 @@
             "time": "2026-10-19T14:22:03+00:00"
         },
         {
+=======
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
             "name": "laravel/serializable-closure",
             "version": "v2.2.0",
             "source": {
@@ -3365,6 +3378,7 @@
             "time": "2026-06-29T15:41:09+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "pusher/pusher-php-server",
             "version": "7.3.0",
             "source": {
@@ -3428,6 +3442,8 @@
             "time": "2026-08-07T12:47:11+00:00"
         },
         {
+=======
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
             "name": "ralouphie/getallheaders",
             "version": "3.0.3",
             "source": {
@@ -3626,6 +3642,7 @@
             "time": "2026-09-16T11:39:30+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "ratchet/rfc6455",
             "version": "v0.4.1",
             "source": {
@@ -4215,6 +4232,8 @@
             "time": "2024-06-11T12:45:25+00:00"
         },
         {
+=======
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
             "name": "symfony/clock",
             "version": "v7.4.21",
             "source": {
@@ -7423,6 +7442,7 @@
         },
         {
             "name": "laravel/sail",
+<<<<<<< HEAD
             "version": "v1.70.0",
             "source": {
                 "type": "git",
@@ -7433,6 +7453,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/sail/zipball/56c1c94117ef12ee707d50433273228ebee7138e",
                 "reference": "56c1c94117ef12ee707d50433273228ebee7138e",
+=======
+            "version": "v1.69.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/sail.git",
+                "reference": "3587ac9d68e8f2eaf36bd9fb003a4555861dca9d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/sail/zipball/3587ac9d68e8f2eaf36bd9fb003a4555861dca9d",
+                "reference": "3587ac9d68e8f2eaf36bd9fb003a4555861dca9d",
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
                 "shasum": ""
             },
             "require": {
@@ -7482,7 +7514,11 @@
                 "issues": "https://github.com/laravel/sail/issues",
                 "source": "https://github.com/laravel/sail"
             },
+<<<<<<< HEAD
             "time": "2026-10-15T08:53:46+00:00"
+=======
+            "time": "2026-10-08T20:06:52+00:00"
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
         },
         {
             "name": "mockery/mockery",
@@ -7628,6 +7664,7 @@
         },
         {
             "name": "nunomaduro/collision",
+<<<<<<< HEAD
             "version": "v8.9.6",
             "source": {
                 "type": "git",
@@ -7645,12 +7682,32 @@
                 "nunomaduro/termwind": "^2.4.1",
                 "php": "^8.2.0",
                 "symfony/console": "^7.4.23 || ^8.1.11"
+=======
+            "version": "v8.9.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nunomaduro/collision.git",
+                "reference": "fb53eacd509a1d303858e2d20cfebf2d630254ec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/fb53eacd509a1d303858e2d20cfebf2d630254ec",
+                "reference": "fb53eacd509a1d303858e2d20cfebf2d630254ec",
+                "shasum": ""
+            },
+            "require": {
+                "filp/whoops": "^2.18.4",
+                "nunomaduro/termwind": "^2.4.0",
+                "php": "^8.2.0",
+                "symfony/console": "^7.4.14 || ^8.1.1"
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
             },
             "conflict": {
                 "laravel/framework": "<11.48.0 || >=14.0.0",
                 "phpunit/phpunit": "<11.5.50 || >=14.0.0"
             },
             "require-dev": {
+<<<<<<< HEAD
                 "brianium/paratest": "^7.8.6",
                 "larastan/larastan": "^3.14.0",
                 "laravel/framework": "^11.57.1 || ^12.72.0 || ^13.40.0",
@@ -7658,6 +7715,15 @@
                 "orchestra/testbench-core": "^9.24.0 || ^10.16.0 || ^11.6.0",
                 "pestphp/pest": "^3.8.7 || ^4.7.8 || ^5.3.5",
                 "sebastian/environment": "^7.2.1 || ^8.1.2 || ^9.3.3"
+=======
+                "brianium/paratest": "^7.8.5",
+                "larastan/larastan": "^3.10.0",
+                "laravel/framework": "^11.48.0 || ^12.56.0 || ^13.20.0",
+                "laravel/pint": "^1.29.3",
+                "orchestra/testbench-core": "^9.12.0 || ^10.12.1 || ^11.3.5",
+                "pestphp/pest": "^3.8.5 || ^4.7.5 || ^5.0.0",
+                "sebastian/environment": "^7.2.1 || ^8.1.2 || ^9.3.2"
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
             },
             "type": "library",
             "extra": {
@@ -7720,7 +7786,11 @@
                     "type": "patreon"
                 }
             ],
+<<<<<<< HEAD
             "time": "2026-11-10T17:06:52+00:00"
+=======
+            "time": "2026-07-15T19:09:14+00:00"
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
         },
         {
             "name": "phar-io/manifest",

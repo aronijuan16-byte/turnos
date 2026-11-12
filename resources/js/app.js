@@ -1,4 +1,5 @@
 import './bootstrap';
+<<<<<<< HEAD
 
 import Alpine from 'alpinejs';
 
@@ -15,3 +16,5 @@ document.addEventListener('DOMContentLoaded', () => {
         window.location.reload();
     }, 5000);
 });
+=======
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030

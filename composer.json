@@ -8,12 +8,19 @@
     "require": {
         "php": "^8.2",
         "laravel/framework": "^12.0",
+<<<<<<< HEAD
         "laravel/reverb": "^1.0",
+=======
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
         "laravel/tinker": "^2.10.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
+<<<<<<< HEAD
         "laravel/breeze": "^2.4",
+=======
+        "laravel/breeze": "*",
+>>>>>>> 9ca365cbfde83813d92c82223eced04060535030
         "laravel/pail": "^1.2.2",
         "laravel/pint": "^1.24",
         "laravel/sail": "^1.41",
